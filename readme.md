@@ -17,7 +17,7 @@ https://etherscan.io/token/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb
 ### Sample Chart
 Last 14 days:
 
-<img src="https://github.com/jiunnhwa/NFT-Price-Volume-Chart-Python-Moralis-Web3/blob/main/Figure_1.png" width=40% >
+<img src="https://github.com/jiunnhwa/NFT-Price-Volume-Chart-Python-Moralis-Web3/blob/main/Figure_1.png" width=70% >
 
 
 ## Installs
